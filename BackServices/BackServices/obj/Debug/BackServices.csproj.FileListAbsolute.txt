@@ -1,0 +1,16 @@
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\BackServices.dll
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\BackServices.pdb
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.csprojResolveAssemblyReference.cache
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.csproj.CoreCompileInputs.cache
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.View.MainPage.xaml.g.cs
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.App.xaml.g.cs
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.dll
+c:\users\anima\source\repos\BackServices\BackServices\BackServices\obj\Debug\BackServices.pdb
